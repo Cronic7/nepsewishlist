@@ -1,0 +1,14 @@
+
+{
+    "manifest_version": 3,
+    "name": "Nepse Wishlist",
+    "description": "Save your favorite NEPSE stocks to a wishlist.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html"
+    
+    },
+    "permissions": ["storage", "activeTab"]
+   
+  }
+  
